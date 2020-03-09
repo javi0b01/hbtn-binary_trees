@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "binary_trees.h"
 /**
  * struct binary_tree_s - Binary tree node
  *
@@ -27,4 +26,8 @@ typedef struct binary_tree_s bst_t;
 typedef struct binary_tree_s avl_t;
 /* Max Binary Heap */
 typedef struct binary_tree_s heap_t;
+/* Tasks Prototypes */
+binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
+/* Print function */
+void binary_tree_print(const binary_tree_t *tree);
 #endif /* _BINARY_TREES_H_ */
