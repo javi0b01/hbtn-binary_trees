@@ -1,9 +1,6 @@
 # 0x1D. C - Binary trees
 Foundations - Low-level programming & Algorithm ― Data structures and Algorithms
 
-###### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
-by _Alexandre Gautier_
-
 ## Learning Objectives
 * What is a binary tree
 * What is the difference between a binary tree and a Binary Search Tree
@@ -64,8 +61,6 @@ by _Alexandre Gautier_
 * [ ] 40. Heap - Sort
 * [ ] 41. Big O #Binary Heap
 
-## Developer
-Javier Andrés Garzón Patarroyo
-- [website](https://tecnoayuda.co/)
-
-:man_technologist: :books: :computer: :globe_with_meridians:
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
